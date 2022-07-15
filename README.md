@@ -71,9 +71,9 @@ The ___type___ is a field that describes in one word what the commit will be add
 
 - Changes to the build process
 
-## Scope
+## Scope (optional)
 
-The ___scope___ is a phrase describing parts of the code affected by the changes.
+The ___scope___ is an _optional_ phrase describing parts of the code affected by the changes.
     
 ## Subject
 
